@@ -1,0 +1,8 @@
+﻿  nenmnugin21.cpp
+C:\Users\Andrey\source\repos\nenmnugin21\nenmnugin21\nenmnugin21.cpp(84,9): warning C4101: tim: неиспользованная локальная переменная
+  Создание кода
+  4 of 8 functions (50.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  nenmnugin21.vcxproj -> C:\Users\Andrey\source\repos\nenmnugin21\Release\nenmnugin21.exe
